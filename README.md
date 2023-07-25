@@ -1,4 +1,4 @@
-# Hand Gesture Volume Control
+# Hand Gesture Volume Control 
 
 ![Hand Gesture Volume Control Example](hand_gesture_volume_control.gif)
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Hand Gesture Volume Control is a Python project that allows you to control the system's audio volume using hand gestures detected from a webcam input. The project uses the [Mediapipe Hands](https://google.github.io/mediapipe/solutions/hands) solution to detect hand landmarks in real-time and calculates the distance between the thumb and index finger tips. This distance is then mapped to the system's volume range to control the volume level based on specific hand gestures.
+Hand Gesture Volume Control is a Computer Vision project that allows you to control the system's audio volume using hand gestures detected from a webcam input. The project uses the [Mediapipe Hands](https://google.github.io/mediapipe/solutions/hands) solution to detect hand landmarks in real-time and calculates the distance between the thumb and index finger tips. This distance is then mapped to the system's volume range to control the volume level based on specific hand gestures.
 
 ## Features
 
